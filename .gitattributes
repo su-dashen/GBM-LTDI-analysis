@@ -1,0 +1,3 @@
+*.m text eol=lf
+*.md text eol=lf
+*.cff text eol=lf

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as described below."
+title: "GBM SPM12 L-TDI Pipeline"
+version: 1.0.0
+date-released: 2026-07-07
+authors:
+  - family-names: "Su"
+    given-names: "Yu"
+abstract: "MATLAB/SPM12 workflow for lesion-aware spatial normalization and label-wise lesion–tract density index calculation in glioblastoma."
+license: "MIT"

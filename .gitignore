@@ -1,0 +1,29 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mlx
+
+# Local configuration
+config/*_local.m
+config/private/
+
+# Imaging, atlases, and large local data
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.nii
+*.nii.gz
+*.img
+*.hdr
+*.mat
+*.h5
+*.hdf5
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
